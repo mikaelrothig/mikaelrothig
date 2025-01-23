@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Mikael Röthig, a software developer from Cape Town, South Africa. I bring clean code and visually appealing designs to life, ensuring a seamless and engaging user journey across all devices.
+<p align="left">I'm Mikael Röthig, a software developer from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
 
 ###
 
