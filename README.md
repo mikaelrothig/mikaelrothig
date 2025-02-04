@@ -1,7 +1,9 @@
-<h1 align="left">👋 Hey there</h1>
+<h1 align="left">👋🏻 Hey there</h1>
 
 ###
-<p align="left">I'm Mikael Röthig, a software developer from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
+<span align="left">I'm Mikael Röthig, a </span>
+**`Software Developer`**
+<span align="left"> from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.</span>
 
 <span>Lets connect! <a href="mailto:mrrothig@gmail.com">mrrothig@gmail.com</a></span>
 
