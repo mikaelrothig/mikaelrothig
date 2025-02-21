@@ -1,4 +1,4 @@
-<h1>👋🏻 Hey there</h1>
+<h1>Hey there 👋🏻</h1>
 
 ###
 <span>I'm Mikael Röthig, a </span>
@@ -55,8 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="36" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="36" />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="36" />
   <img width="4" />
