@@ -1,64 +1,20 @@
-<h1>Hey there 👋🏻</h1>
+# Howzit👋🏻
 
-###
-<span>I'm Mikael Röthig, a </span>
-`Software Developer`
-<span> from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.</span>
+I'm Mikael Röthig, a `Software Developer` from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
 
-<span>Lets connect! <a href="mailto:mrrothig@gmail.com">mrrothig@gmail.com</a></span>
+Lets connect! <a href="mailto:mrrothig@gmail.com">mrrothig@gmail.com</a>
 
-###
+### Tech Stack</h2>
 
-<h2>Tech Stack</h2>
-
-###
-<h3>Programming Languages</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="36"/>
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="36" />
-</div>
-
-<h3>Libraries & Frameworks</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" height="36" /> 
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopware/shopware-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="36" />      
-</div>
-
-<h3>Tools and Software</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="36" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="36" />
-</div>
+[![PHP](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/php.svg)](https://www.php.net/)
+[![C#](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/c-sharp.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![TYPESCRIPT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/typescript.svg)](https://www.typescriptlang.org/)
+[![JAVASCRIPT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![ASTRO](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/astro.svg)](https://astro.build/)
+[![REACT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/react.svg)](https://react.dev/)
+[![TAILWINDCSS](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/tailwindcss.svg)](https://tailwindcss.com/)
+[![FIGMA](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/figma.svg)](https://www.figma.com/)
+[![ADOBEXD](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/adobe-xd.svg)](https://helpx.adobe.com/xd/user-guide.html)
+[![ADOBEILLUSTRATOR](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/adobe-illustrator.svg)](https://www.adobe.com/products/illustrator.html)
