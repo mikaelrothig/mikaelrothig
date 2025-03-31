@@ -1,4 +1,4 @@
-# Howzit 👋🏻
+## Howzit 👋🏻
 
 I'm Mikael Röthig, a `Software Developer` from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
 
