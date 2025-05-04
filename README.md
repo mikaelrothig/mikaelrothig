@@ -1,6 +1,6 @@
 ## Howzit 👋🏻
 
-I'm Mikael Röthig, a `Software Developer` from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
+I'm Mikael Röthig, a `Software Engineer` from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
 
 Lets connect! <a href="mailto:mrrothig@gmail.com">mrrothig@gmail.com</a>
 
