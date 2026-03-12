@@ -2,13 +2,13 @@ Software Engineer from Cape Town, South Africa. I build user-friendly websites a
 
 ### Tech Stack
 
-[![PHP](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/php.svg)](https://www.php.net/)
-[![TYPESCRIPT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/typescript.svg)](https://www.typescriptlang.org/)
-[![SQL](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/sql.svg)](https://www.postgresql.org/) 
-[![REACT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/react.svg)](https://react.dev/)
-[![ASTRO](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/astro.svg)](https://astro.build/)
-[![HTML](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![TAILWINDCSS](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/tailwindcss.svg)](https://tailwindcss.com/)
-[![FIGMA](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/figma.svg)](https://www.figma.com/)
+[![PHP](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/php.svg)](https://www.php.net/)
+[![TYPESCRIPT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/typescript.svg)](https://www.typescriptlang.org/)
+[![SQL](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/sql.svg)](https://www.postgresql.org/) 
+[![REACT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/react.svg)](https://react.dev/)
+[![ASTRO](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/astro.svg)](https://astro.build/)
+[![HTML](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![TAILWINDCSS](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/tailwindcss.svg)](https://tailwindcss.com/)
+[![FIGMA](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/figma.svg)](https://www.figma.com/)
 
-<img src="https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/in-progress-yellow.svg" align="top">ㅤTrainr - A coaching platform for grassroots football clubs to manage players, teams, and training.
+<img src="https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/in-progress.svg" align="top">ㅤTrainr - A coaching platform for grassroots football clubs to manage players, teams, and training.
