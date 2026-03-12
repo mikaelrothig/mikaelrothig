@@ -1,8 +1,8 @@
 Software Engineer from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
 
-Lets connect! <a href="mailto:mrrothig@gmail.com">mrrothig@gmail.com</a>
+<img src="https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/in-progress-yellow.svg" align="top"> Trainr - A coaching platform for grassroots football clubs to manage players, teams, and training.
 
-### Tech Stack</h2>
+### Tech Stack
 
 [![PHP](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/php.svg)](https://www.php.net/)
 [![TYPESCRIPT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/topics/typescript.svg)](https://www.typescriptlang.org/)
