@@ -10,5 +10,3 @@ Software Engineer from Cape Town, South Africa. I build user-friendly websites a
 [![HTML](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![TAILWINDCSS](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/tailwindcss.svg)](https://tailwindcss.com/)
 [![FIGMA](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/figma.svg)](https://www.figma.com/)
-
-<img src="https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/in-progress.svg" align="top">ㅤTrainr - A coaching platform for grassroots football clubs to manage players, teams, and training.
