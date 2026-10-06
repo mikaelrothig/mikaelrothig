@@ -1,12 +1,13 @@
-Software Engineer from Cape Town, South Africa. I build user-friendly websites and applications with a focus on clean code and visually appealing designs.
+### Projects
 
-### Tech Stack
+<p>
+  <a href="https://halfspacefootball.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/halfspace-dark.png"><img src="assets/halfspace-light.png" alt="Halfspace" width="49%"></picture></a>
+  <a href="https://kitebeachforecast.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kite-beach-forecast-dark.png"><img src="assets/kite-beach-forecast-light.png" alt="Kite Beach Forecast" width="49%"></picture></a>
+  <a href="https://mikaelrothig.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.png"><img src="assets/website-light.png" alt="mikaelrothig.com" width="49%"></picture></a>
+</p>
 
-[![PHP](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/php.svg)](https://www.php.net/)
-[![TYPESCRIPT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/typescript.svg)](https://www.typescriptlang.org/)
-[![SQL](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/sql.svg)](https://www.postgresql.org/) 
-[![REACT](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/react.svg)](https://react.dev/)
-[![ASTRO](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/astro.svg)](https://astro.build/)
-[![HTML](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![TAILWINDCSS](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/tailwindcss.svg)](https://tailwindcss.com/)
-[![FIGMA](https://raw.githubusercontent.com/MikaelRothig/mikaelrothig/main/labels/figma.svg)](https://www.figma.com/)
+### Tech stack
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png"><img src="assets/stack-light.png" alt="PHP, Laravel, TypeScript, React, Astro, HTML, Tailwind CSS, PostgreSQL, Figma" width="440"></picture>
+</p>
